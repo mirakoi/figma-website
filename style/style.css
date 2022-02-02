@@ -15,6 +15,10 @@
     color: #4F56F1;
 }
 
+section {
+    display: inline-block;
+}
+
 .main-title {
     max-width: 495px;
     width: 100%;
@@ -25,6 +29,43 @@
     line-height: 76px;
     letter-spacing: 0.02em;
     color: #1B0A42;
-    margin-top: 270px;
+    margin-top: 112px;
+    margin-left: 200px;
+}
+
+.ellipse {
+    margin-top: 72px;
+    margin-left: 344px;
+}
+
+.main-info {
+    width: 100%;
+    max-width: 538px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-top: 21px;
+    margin-left: 200px;
+}
+
+.main-btn {
+    background-color: #4F56F1;
+    border-radius: 6px;
+    width: 152px;
+    height: 64px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 32px;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+    margin-top: 50px;
     margin-left: 200px;
 }
